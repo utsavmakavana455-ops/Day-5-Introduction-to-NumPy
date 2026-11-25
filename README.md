@@ -1,15 +1,5 @@
 # Day 5 – Introduction to NumPy
 
-**Week:** 1 – Python Basics  
-**Level:** Beginner  
-**Estimated Time:** 30–45 minutes
-
-## 📌 Overview
-
-Today I learned about **NumPy (Numerical Python)**, one of the most important Python libraries used in Data Science, Data Analysis, and Machine Learning.
-
-NumPy makes it easier and faster to work with numerical data, arrays, matrices, and mathematical operations.
-
 ## 🎯 Learning Objectives
 
 By the end of this lesson, I learned how to:
@@ -296,14 +286,4 @@ git push
 - [ ] Complete the quiz.
 - [ ] Push the project to GitHub.
 
-## 💡 Key Takeaways
 
-Today I learned that NumPy is an essential Python library for numerical computing and Machine Learning.
-
-I can now create arrays, perform mathematical operations, analyze numerical data, and work with matrices.
-
-**Next Step:** Day 6 – Introduction to Pandas.
-
----
-
-**30 Days of Machine Learning | Week 1 | Day 5**
