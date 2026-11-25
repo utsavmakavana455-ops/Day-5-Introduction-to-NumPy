@@ -251,27 +251,6 @@ Machine Learning uses similar numerical operations to process data, identify pat
 - An array with rows and columns
 - A text string
 
-## 12. Project Structure
-
-```text
-30-Days-of-Machine-Learning/
-│
-└── Week-01-Python-Basics/
-    │
-    └── Day-05-Introduction-to-NumPy/
-        ├── README.md
-        └── exercises.py
-```
-
-## 13. GitHub Commands
-
-After completing the exercises, upload your work to GitHub.
-
-```bash
-git add .
-git commit -m "Day 5: Introduction to NumPy"
-git push
-```
 
 ## ✅ Day 5 Completion Checklist
 
