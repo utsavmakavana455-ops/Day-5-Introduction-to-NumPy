@@ -1,18 +1,5 @@
 # Day 5 – Introduction to NumPy
 
-## 🎯 Learning Objectives
-
-By the end of this lesson, I learned how to:
-
-- Understand what NumPy is and why it is useful.
-- Import NumPy using `import numpy as np`.
-- Create NumPy arrays.
-- Perform mathematical operations on arrays.
-- Use built-in NumPy functions.
-- Access array elements using indexing and slicing.
-- Create and work with 2D arrays (matrices).
-- Understand array properties such as shape, ndim, size, and dtype.
-- Apply NumPy to simple Machine Learning tasks.
 
 ## 1. What is NumPy?
 
